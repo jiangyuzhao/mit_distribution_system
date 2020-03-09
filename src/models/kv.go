@@ -1,6 +1,6 @@
 package models
 
-import "../porcupine"
+import "mitlab/porcupine"
 import "fmt"
 import "sort"
 

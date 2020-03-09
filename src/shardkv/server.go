@@ -1,11 +1,11 @@
 package shardkv
 
 
-// import "../shardmaster"
-import "../labrpc"
-import "../raft"
+// import "mitlab/shardmaster"
+import "mitlab/labrpc"
+import "mitlab/raft"
 import "sync"
-import "../labgob"
+import "mitlab/labgob"
 
 
 
