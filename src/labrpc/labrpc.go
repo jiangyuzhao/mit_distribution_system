@@ -49,15 +49,17 @@ package labrpc
 //   pass svc to srv.AddService()
 //
 
-import "mitlab/labgob"
-import "bytes"
-import "reflect"
-import "sync"
-import "log"
-import "strings"
-import "math/rand"
-import "time"
-import "sync/atomic"
+import (
+	"bytes"
+	"log"
+	"math/rand"
+	"mitlab/labgob"
+	"reflect"
+	"strings"
+	"sync"
+	"sync/atomic"
+	"time"
+)
 
 type reqMsg struct {
 	endname  interface{} // name of sending ClientEnd
@@ -86,7 +88,7 @@ func (e *ClientEnd) Call(svcMeth string, args interface{}, reply interface{}) bo
 	req.endname = e.endname
 	req.svcMeth = svcMeth
 	req.argsType = reflect.TypeOf(args)
-	req.replyCh = make(chan replyMsg)
+	req.replyCh = make(chan replyMsg) // 我觉得在真实环境下，这里应该注册类似epoll的东西，而不应该直接用ch
 
 	qb := new(bytes.Buffer)
 	qe := labgob.NewEncoder(qb)
@@ -233,6 +235,7 @@ func (rn *Network) processReq(req reqMsg) {
 		// in a separate thread so that we can periodically check
 		// if the server has been killed and the RPC should get a
 		// failure reply.
+		// 其实也很好理解，server所在的线程和network所在的线程一定不同，现实如何代码就怎么抽象！
 		ech := make(chan replyMsg)
 		go func() {
 			r := server.dispatch(req)
@@ -253,7 +256,9 @@ func (rn *Network) processReq(req reqMsg) {
 				serverDead = rn.isServerDead(req.endname, servername, server)
 				if serverDead {
 					go func() {
+						log.Printf("后面一句和本句应该总是成对出现，否则出现goroutine泄露")
 						<-ech // drain channel to let the goroutine created earlier terminate
+						log.Printf("我觉得这里应该close，否则ech可能卡住")
 					}()
 				}
 			}

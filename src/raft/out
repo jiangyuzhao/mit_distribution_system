@@ -1,0 +1,421 @@
+Test (2A): initial election ...
+2020/03/13 08:51:54 raft 1 electionTimeout.
+2020/03/13 08:51:54 raft 1 electionTimeout.
+2020/03/13 08:51:54 raft 1 electionTimeout.
+2020/03/13 08:51:54 raft 1 electionTimeout.
+2020/03/13 08:51:54 raft 1 electionTimeout.
+2020/03/13 08:51:54 raft 1 electionTimeout.
+2020/03/13 08:51:54 raft 1 electionTimeout.
+2020/03/13 08:51:54 raft 1 electionTimeout.
+2020/03/13 08:51:54 raft 1 electionTimeout.
+2020/03/13 08:51:54 raft 1 electionTimeout.
+2020/03/13 08:51:54 raft 1 electionTimeout.
+2020/03/13 08:51:54 raft 1 electionTimeout.
+2020/03/13 08:51:54 raft 1 electionTimeout.
+2020/03/13 08:51:54 raft 1 electionTimeout.
+2020/03/13 08:51:54 raft 1 electionTimeout.
+2020/03/13 08:51:54 raft 1 electionTimeout.
+2020/03/13 08:51:54 raft 1 electionTimeout.
+2020/03/13 08:51:54 raft 1 electionTimeout.
+2020/03/13 08:51:54 raft 1 electionTimeout.
+2020/03/13 08:51:54 raft 1 electionTimeout.
+2020/03/13 08:51:54 raft 1 electionTimeout.
+2020/03/13 08:51:54 raft 1 electionTimeout.
+2020/03/13 08:51:54 raft 1 electionTimeout.
+2020/03/13 08:51:54 raft 1 electionTimeout.
+2020/03/13 08:51:54 raft 1 electionTimeout.
+2020/03/13 08:51:54 raft 1 electionTimeout.
+2020/03/13 08:51:54 raft 1 electionTimeout.
+2020/03/13 08:51:54 raft 1 electionTimeout.
+2020/03/13 08:51:54 raft 1 electionTimeout.
+2020/03/13 08:51:54 raft 1 electionTimeout.
+2020/03/13 08:51:54 raft 1 electionTimeout.
+2020/03/13 08:51:54 raft 1 electionTimeout.
+2020/03/13 08:51:54 raft 1 electionTimeout.
+2020/03/13 08:51:54 raft 1 electionTimeout.
+2020/03/13 08:51:54 raft 1 electionTimeout.
+2020/03/13 08:51:54 raft 1 electionTimeout.
+2020/03/13 08:51:54 raft 1 electionTimeout.
+2020/03/13 08:51:54 raft 1 electionTimeout.
+2020/03/13 08:51:54 raft 1 electionTimeout.
+2020/03/13 08:51:54 raft 1 electionTimeout.
+2020/03/13 08:51:54 raft 1 electionTimeout.
+2020/03/13 08:51:54 raft 2 electionTimeout.
+2020/03/13 08:51:54 raft 2 electionTimeout.
+2020/03/13 08:51:54 raft 2 electionTimeout.
+2020/03/13 08:51:54 raft 2 electionTimeout.
+2020/03/13 08:51:54 raft 2 electionTimeout.
+2020/03/13 08:51:54 raft 2 electionTimeout.
+2020/03/13 08:51:54 raft 2 electionTimeout.
+2020/03/13 08:51:54 raft 2 electionTimeout.
+2020/03/13 08:51:54 raft 2 electionTimeout.
+2020/03/13 08:51:54 raft 2 electionTimeout.
+2020/03/13 08:51:54 raft 1 start elective with term 1
+.
+2020/03/13 08:51:54 raft 2 electionTimeout.
+2020/03/13 08:51:54 raft 2 electionTimeout.
+2020/03/13 08:51:54 raft 2 electionTimeout.
+2020/03/13 08:51:54 raft 2 electionTimeout.
+2020/03/13 08:51:54 raft 2 electionTimeout.
+2020/03/13 08:51:54 raft 2 electionTimeout.
+2020/03/13 08:51:54 raft 2 electionTimeout.
+2020/03/13 08:51:54 raft 2 electionTimeout.
+2020/03/13 08:51:54 raft 1 start elective with term 2
+.
+2020/03/13 08:51:54 raft 2 electionTimeout.
+2020/03/13 08:51:54 raft 2 electionTimeout.
+2020/03/13 08:51:54 raft 2 electionTimeout.
+2020/03/13 08:51:54 raft 2 electionTimeout.
+2020/03/13 08:51:54 raft 2 electionTimeout.
+2020/03/13 08:51:54 raft 1 start elective with term 3
+.
+2020/03/13 08:51:54 raft 2 start elective with term 1
+.
+2020/03/13 08:51:54 raft 0 electionTimeout.
+2020/03/13 08:51:54 raft 1 start elective with term 4
+.
+2020/03/13 08:51:54 raft 2 start elective with term 2
+.
+2020/03/13 08:51:54 raft 1 send RequestVote RPC with term 4, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 1 start elective with term 5
+.
+2020/03/13 08:51:54 raft 1 send RequestVote RPC with term 5, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 2 start elective with term 3
+.
+2020/03/13 08:51:54 raft 2 send RequestVote RPC with term 3, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 2 start elective with term 4
+.
+2020/03/13 08:51:54 raft 1 start elective with term 6
+.
+2020/03/13 08:51:54 raft 2 send RequestVote RPC with term 4, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 2 start elective with term 5
+.
+2020/03/13 08:51:54 raft 2 send RequestVote RPC with term 5, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 2 start elective with term 6
+.
+2020/03/13 08:51:54 raft 2 send RequestVote RPC with term 6, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 2 start elective with term 7
+.
+2020/03/13 08:51:54 raft 2 send RequestVote RPC with term 7, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 1 start elective with term 7
+.
+2020/03/13 08:51:54 raft 1 send RequestVote RPC with term 7, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 2 start elective with term 8
+.
+2020/03/13 08:51:54 raft 2 send RequestVote RPC with term 8, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 2 start elective with term 9
+.
+2020/03/13 08:51:54 raft 2 send RequestVote RPC with term 9, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 1 start elective with term 9
+.
+2020/03/13 08:51:54 raft 1 send RequestVote RPC with term 9, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 2 start elective with term 10
+.
+2020/03/13 08:51:54 raft 2 send RequestVote RPC with term 10, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 2 send RequestVote RPC with term 11, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 2 send RequestVote RPC with term 11, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 1 send RequestVote RPC with term 9, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 2 send RequestVote RPC with term 1, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 1 send RequestVote RPC with term 9, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 2 send RequestVote RPC with term 11, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 1 send RequestVote RPC with term 3, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 2 start elective with term 11
+.
+2020/03/13 08:51:54 raft 2 send RequestVote RPC with term 11, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 2 send RequestVote RPC with term 11, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 1 send RequestVote RPC with term 6, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 2 send RequestVote RPC with term 11, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 0 start elective with term 1
+.
+2020/03/13 08:51:54 raft 0 send RequestVote RPC with term 1, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 2 start elective with term 12
+.
+2020/03/13 08:51:54 raft 2 send RequestVote RPC with term 12, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 2 send RequestVote RPC with term 12, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 2 send RequestVote RPC with term 12, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 1 send RequestVote RPC with term 11, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 2 waiting for another elective.
+2020/03/13 08:51:54 raft 2 start elective with term 13
+.
+2020/03/13 08:51:54 raft 1 send RequestVote RPC with term 2, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 1 start elective with term 14
+.
+2020/03/13 08:51:54 raft 1 send RequestVote RPC with term 14, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 1 send RequestVote RPC with term 14, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 2 start elective with term 15
+.
+2020/03/13 08:51:54 raft 2 send RequestVote RPC with term 15, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 0 electionTimeout.
+2020/03/13 08:51:54 raft 0 start elective with term 12
+.
+2020/03/13 08:51:54 raft 0 send RequestVote RPC with term 12, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 2 send RequestVote RPC with term 15, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 1 send RequestVote RPC with term 15, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 2 start elective with term 16
+.
+2020/03/13 08:51:54 raft 2 send RequestVote RPC with term 16, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 2 send RequestVote RPC with term 2, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 2 send RequestVote RPC with term 16, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 1 send RequestVote RPC with term 16, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 2 start elective with term 17
+.
+2020/03/13 08:51:54 raft 2 send RequestVote RPC with term 17, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 1 waiting for another elective.
+2020/03/13 08:51:54 raft 1 start elective with term 17
+.
+2020/03/13 08:51:54 raft 2 send RequestVote RPC with term 17, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 1 send RequestVote RPC with term 18, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 1 send RequestVote RPC with term 2, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 2 send RequestVote RPC with term 17, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 2 start elective with term 18
+.
+2020/03/13 08:51:54 raft 2 send RequestVote RPC with term 18, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 2 send RequestVote RPC with term 18, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 2 send RequestVote RPC with term 10, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 2 send RequestVote RPC with term 11, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 1 send RequestVote RPC with term 17, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 2 send RequestVote RPC with term 13, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 1 start elective with term 18
+.
+2020/03/13 08:51:54 raft 1 send RequestVote RPC with term 18, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 1 start elective with term 19
+.
+2020/03/13 08:51:54 raft 1 send RequestVote RPC with term 19, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 1 send RequestVote RPC with term 18, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 1 send RequestVote RPC with term 19, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 1 send RequestVote RPC with term 19, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 0 send RequestVote RPC with term 15, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 1 start elective with term 20
+.
+2020/03/13 08:51:54 raft 1 send RequestVote RPC with term 20, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 0 waiting for another elective.
+2020/03/13 08:51:54 raft 2 send RequestVote RPC with term 13, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 1 start elective with term 21
+.
+2020/03/13 08:51:54 raft 1 send RequestVote RPC with term 21, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 2 waiting for another elective.
+2020/03/13 08:51:54 raft 2 waiting for another elective.
+2020/03/13 08:51:54 raft 0 send RequestVote RPC with term 17, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 1 start elective with term 22
+.
+2020/03/13 08:51:54 raft 2 start elective with term 19
+.
+2020/03/13 08:51:54 raft 2 send RequestVote RPC with term 19, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 2 electionTimeout.
+2020/03/13 08:51:54 raft 1 send RequestVote RPC with term 3, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 2 send RequestVote RPC with term 19, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 1 send RequestVote RPC with term 18, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 1 send RequestVote RPC with term 22, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 1 send RequestVote RPC with term 22, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 1 start elective with term 23
+.
+2020/03/13 08:51:54 raft 1 send RequestVote RPC with term 23, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 2 send RequestVote RPC with term 19, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 1 send RequestVote RPC with term 23, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 1 send RequestVote RPC with term 23, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 1 start elective with term 24
+.
+2020/03/13 08:51:54 raft 1 send RequestVote RPC with term 24, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 1 send RequestVote RPC with term 23, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 1 start elective with term 25
+.
+2020/03/13 08:51:54 raft 1 send RequestVote RPC with term 25, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 2 waiting for another elective.
+2020/03/13 08:51:54 raft 2 start elective with term 22
+.
+2020/03/13 08:51:54 raft 2 send RequestVote RPC with term 22, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 1 send RequestVote RPC with term 25, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 2 send RequestVote RPC with term 22, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 2 start elective with term 26
+.
+2020/03/13 08:51:54 raft 2 send RequestVote RPC with term 26, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 1 start elective with term 26
+.
+2020/03/13 08:51:54 raft 1 send RequestVote RPC with term 26, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 2 start elective with term 27
+.
+2020/03/13 08:51:54 raft 2 send RequestVote RPC with term 27, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 2 send RequestVote RPC with term 27, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 2 send RequestVote RPC with term 27, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 2 waiting for another elective.
+2020/03/13 08:51:54 raft 1 send RequestVote RPC with term 26, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 2 start elective with term 28
+.
+2020/03/13 08:51:54 raft 2 send RequestVote RPC with term 28, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 1 start elective with term 29
+.
+2020/03/13 08:51:54 raft 1 send RequestVote RPC with term 29, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 2 send RequestVote RPC with term 28, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 1 send RequestVote RPC with term 29, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 2 start elective with term 30
+.
+2020/03/13 08:51:54 raft 2 send RequestVote RPC with term 30, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 2 send RequestVote RPC with term 30, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 2 waiting for another elective.
+2020/03/13 08:51:54 raft 1 start elective with term 31
+.
+2020/03/13 08:51:54 raft 2 send RequestVote RPC with term 30, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 1 waiting for another elective.
+2020/03/13 08:51:54 raft 2 waiting for another elective.
+2020/03/13 08:51:54 raft 1 send RequestVote RPC with term 31, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 2 become leader with Term 30!
+2020/03/13 08:51:54 raft 2 send heartbeat, with
+2020/03/13 08:51:54 args {30 2 0 0 [] 0}
+2020/03/13 08:51:54 args {30 2 0 0 [] 0}
+2020/03/13 08:51:54 raft 2 send AppendEntries RPC.
+2020/03/13 08:51:54 raft 1 start elective with term 32
+.
+2020/03/13 08:51:54 raft 1 send RequestVote RPC with term 32, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 1 start elective with term 33
+.
+2020/03/13 08:51:54 raft 1 send RequestVote RPC with term 33, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 1 start elective with term 34
+.
+2020/03/13 08:51:54 raft 1 send RequestVote RPC with term 34, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 1 send RequestVote RPC with term 35, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 1 send RequestVote RPC with term 34, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 1 send RequestVote RPC with term 35, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 1 send RequestVote RPC with term 31, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 1 send RequestVote RPC with term 34, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 2 send AppendEntries RPC.
+2020/03/13 08:51:54 raft 2 waiting for another elective.
+2020/03/13 08:51:54 raft 1 start elective with term 35
+.
+2020/03/13 08:51:54 raft 1 send RequestVote RPC with term 35, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 0 receive AppendEntries RPC from raft 2 with args {30 2 0 0 [] 0}
+2020/03/13 08:51:54 raft 1 start elective with term 36
+.
+2020/03/13 08:51:54 raft 1 send RequestVote RPC with term 36, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 1 start elective with term 37
+.
+2020/03/13 08:51:54 raft 1 send RequestVote RPC with term 37, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 1 send RequestVote RPC with term 37, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 1 waiting for another elective.
+2020/03/13 08:51:54 raft 2 waiting for another elective.
+2020/03/13 08:51:54 raft 2 start elective with term 36
+.
+2020/03/13 08:51:54 raft 2 send RequestVote RPC with term 36, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 1 send RequestVote RPC with term 37, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 1 start elective with term 38
+.
+2020/03/13 08:51:54 raft 1 send RequestVote RPC with term 38, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 1 send RequestVote RPC with term 38, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 1 waiting for another elective.
+2020/03/13 08:51:54 raft 1 waiting for another elective.
+2020/03/13 08:51:54 raft 2 send RequestVote RPC with term 38, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 1 waiting for another elective.
+2020/03/13 08:51:54 raft 1 waiting for another elective.
+2020/03/13 08:51:54 raft 1 start elective with term 39
+.
+2020/03/13 08:51:54 raft 1 send RequestVote RPC with term 39, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 2 waiting for another elective.
+2020/03/13 08:51:54 raft 2 waiting for another elective.
+2020/03/13 08:51:54 raft 1 waiting for another elective.
+2020/03/13 08:51:54 raft 1 send RequestVote RPC with term 39, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 1 waiting for another elective.
+2020/03/13 08:51:54 raft 1 start elective with term 40
+.
+2020/03/13 08:51:54 raft 1 send RequestVote RPC with term 40, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 1 waiting for another elective.
+2020/03/13 08:51:54 raft 1 start elective with term 41
+.
+2020/03/13 08:51:54 raft 1 send RequestVote RPC with term 41, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 1 send RequestVote RPC with term 41, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 1 send RequestVote RPC with term 41, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 1 start elective with term 42
+.
+2020/03/13 08:51:54 raft 1 send RequestVote RPC with term 42, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 1 waiting for another elective.
+2020/03/13 08:51:54 raft 1 send RequestVote RPC with term 42, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 1 start elective with term 43
+.
+2020/03/13 08:51:54 raft 1 send RequestVote RPC with term 43, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 1 waiting for another elective.
+2020/03/13 08:51:54 raft 1 send RequestVote RPC with term 43, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 1 start elective with term 44
+.
+2020/03/13 08:51:54 raft 1 send RequestVote RPC with term 44, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 1 waiting for another elective.
+2020/03/13 08:51:54 raft 1 start elective with term 45
+.
+2020/03/13 08:51:54 raft 1 send RequestVote RPC with term 45, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 1 waiting for another elective.
+2020/03/13 08:51:54 raft 1 start elective with term 46
+.
+2020/03/13 08:51:54 raft 1 send RequestVote RPC with term 46, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 1 send RequestVote RPC with term 46, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 1 start elective with term 47
+.
+2020/03/13 08:51:54 raft 1 send RequestVote RPC with term 47, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 1 send RequestVote RPC with term 47, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 1 start elective with term 48
+.
+2020/03/13 08:51:54 raft 1 send RequestVote RPC with term 48, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 1 send RequestVote RPC with term 48, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 1 send RequestVote RPC with term 48, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 1 waiting for another elective.
+2020/03/13 08:51:54 raft 1 send RequestVote RPC with term 44, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 1 start elective with term 49
+.
+2020/03/13 08:51:54 raft 1 send RequestVote RPC with term 49, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 1 waiting for another elective.
+2020/03/13 08:51:54 raft 1 start elective with term 50
+.
+2020/03/13 08:51:54 raft 1 send RequestVote RPC with term 50, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 1 send RequestVote RPC with term 50, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 1 waiting for another elective.
+2020/03/13 08:51:54 raft 1 send RequestVote RPC with term 49, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 1 send RequestVote RPC with term 50, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 1 waiting for another elective.
+2020/03/13 08:51:54 raft 2 waiting for another elective.
+2020/03/13 08:51:54 raft 1 start elective with term 51
+.
+2020/03/13 08:51:54 raft 1 send RequestVote RPC with term 51, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 1 waiting for another elective.
+2020/03/13 08:51:54 raft 2 waiting for another elective.
+2020/03/13 08:51:54 raft 1 waiting for another elective.
+2020/03/13 08:51:54 raft 1 waiting for another elective.
+2020/03/13 08:51:54 raft 1 waiting for another elective.
+2020/03/13 08:51:54 raft 1 send RequestVote RPC with term 51, last log term 0, last log index 0
+2020/03/13 08:51:54 raft 2 waiting for another elective.
+2020/03/13 08:51:54 raft 2 waiting for another elective.
+2020/03/13 08:51:54 raft 2 waiting for another elective.
+2020/03/13 08:51:54 raft 1 become leader with Term 51!
+2020/03/13 08:51:54 raft 1 send heartbeat, with
+2020/03/13 08:51:54 args {51 1 0 0 [] 0}
+2020/03/13 08:51:54 args {51 1 0 0 [] 0}
+2020/03/13 08:51:54 raft 1 send AppendEntries RPC.
+2020/03/13 08:51:54 raft 2 waiting for another elective.
+2020/03/13 08:51:54 raft 2 waiting for another elective.
+2020/03/13 08:51:54 raft 1 send heartbeat, with
+2020/03/13 08:51:54 args {51 1 0 0 [] 0}
+2020/03/13 08:51:54 args {51 1 0 0 [] 0}
+2020/03/13 08:51:54 raft 1 send AppendEntries RPC.
+2020/03/13 08:51:54 raft 0 waiting for another elective.
+2020/03/13 08:51:54 raft 1 waiting for another elective.
+2020/03/13 08:51:54 raft 1 waiting for another elective.
+2020/03/13 08:51:54 raft 1 receive AppendEntries RPC from raft 2 with args {30 2 0 0 [] 0}
+2020/03/13 08:51:54 raft 2 receive AppendEntries RPC from raft 1 with args {51 1 0 0 [] 0}
+2020/03/13 08:51:54 raft 2 receive AppendEntries RPC from raft 1 with args {51 1 0 0 [] 0}
+2020/03/13 08:51:54 raft 1 send AppendEntries RPC.
+2020/03/13 08:51:54 raft 1 waiting for another elective.
+2020/03/13 08:51:54 raft 1 send AppendEntries RPC.
+2020/03/13 08:51:54 raft 1 waiting for another elective.
+2020/03/13 08:51:54 raft 1 waiting for another elective.
+2020/03/13 08:51:54 raft 1 waiting for another elective.
+2020/03/13 08:51:54 raft 1 waiting for another elective.
+2020/03/13 08:51:54 raft 1 waiting for another elective.
+2020/03/13 08:51:54 raft 1 waiting for another elective.
+2020/03/13 08:51:54 raft 0 receive AppendEntries RPC from raft 1 with args {51 1 0 0 [] 0}
+2020/03/13 08:51:54 raft 0 receive AppendEntries RPC from raft 1 with args {51 1 0 0 [] 0}
+2020/03/13 08:51:54 raft 1 waiting for another elective.
+2020/03/13 08:51:54 raft 1 send heartbeat, with
+panic: args.PrevLogIndex < 0
+
+goroutine 524 [running]:
+mitlab/raft.(*Raft).broadcastHeartbeat(0xc0000b6340)
+	/home/jyz/go/src/6.824/src/raft/raft.go:598 +0x347
+created by mitlab/raft.(*Raft).heartbeatTimeoutChecker
+	/home/jyz/go/src/6.824/src/raft/raft.go:561 +0xc4
+exit status 2
+FAIL	mitlab/raft	0.139s
